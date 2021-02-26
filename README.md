@@ -1,6 +1,6 @@
-# orgnews
+# OrgNews
 
-News Flutter App.
+News Flutter App to see News.
 
 ## Getting Started
 
@@ -16,3 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Fisnished
+## Link in mediaFire is : http://www.mediafire.com/file/tc8frc0k9habhyt/OrgNews.apk/file
